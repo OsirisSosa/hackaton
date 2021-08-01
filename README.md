@@ -8,7 +8,7 @@
 ### Link al Tiktok
 
 ### Diagrama de Azure
-![Diagrama Azure](images/diagrama azure.png)
+![Diagrama Azure](https://github.com/OsirisSosa/hackaton/blob/4cb7a0754a74bc7e035025ffe1f44b763c239163/images/diagrama%20azure.png)
 
 ### SLA Compuesto
 Dado los diferentes servicios, el SLA compuesto es de 99.68%
