@@ -16,6 +16,15 @@ Dado los diferentes servicios, el SLA compuesto es de 99.68%
 
 ### TCO 3 años y Precio Total por mes
 Se realizaron los calculos de servidores físicos con capacidades similares a los de la nube para realizar los calculos TCO
+Se utilizaron los siguientes recursos
+<ul>
+  <li>App Service</li>
+  <li>Azure Functions</li>
+  <li>Azure Database for MySQL</li>
+  <li>Storage Accounts</li>
+  <li>Azure Bot Services</li>
+  <li>Azure Monitor</li>
+</ul>
 
 ### Tiempo sin disponibilidad a un año
 
