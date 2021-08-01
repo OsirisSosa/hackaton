@@ -34,6 +34,6 @@ En comparativa a los 5 años, se ahorraría un total de <b>$1,788,373 MX</b>.<br
 
 ### Tiempo sin disponibilidad a un año
 El tiempo sin disponibilidad del proyecto en un año es de <b>28 horas</b>. 
-![Diagrama Azure](https://github.com/OsirisSosa/hackaton/blob/54c6771fae4b8f3670fdca5a14ae8bb03c860831/images/sla%20.png)
+![Diagrama Azure](/images/inactividad%20en%20un%20a%C3%B1o.png)
 
 ### Qué te pareció el evento
