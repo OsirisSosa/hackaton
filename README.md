@@ -1,8 +1,10 @@
 ![Diagrama Azure](/images/summerhack.png)
 
 # ApoyaTec
-![Repositorio Proyecto] (https://github.com/jonathan-alexis-bello-lopez/ApoyaTec)<br />
+![Repositorio Proyecto](https://github.com/jonathan-alexis-bello-lopez/ApoyaTec)<br />
 Link de Web App: <br />
+<b>Figma de Look&Feel del Proyecto:</b> <br >
+![LookAndFeel](https://www.figma.com/file/m8LJEXM0fnK8HyT2X3Oppm/%F0%9F%A6%9DApoyaTec-Hackaton?node-id=0%3A1)<br />
 
 ### Descripción del Proyecto a Entregar (Corta)
 
