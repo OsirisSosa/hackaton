@@ -5,6 +5,8 @@
 Link de Web App: <br />
 <b>Figma de Look&Feel del Proyecto:</b> <br >
 ![LookAndFeel](https://www.figma.com/file/m8LJEXM0fnK8HyT2X3Oppm/%F0%9F%A6%9DApoyaTec-Hackaton?node-id=0%3A1)<br />
+<b>Servicio Bot para los cursos</b>
+![Bot Service](https://mapi-bot-9l3e6.ondigitalocean.app/)
 
 ### Descripción del Proyecto a Entregar (Corta)
 ApoyaTec nace como apoyo al sector gobierno a la reactivación económica desde los cimientos. Cuando pensamos en inversiones nos vienen a la cabeza compra de acciones, de propiedades, etc. Cuando la inversión más importante y rentable esta frente a nosotros. Invertir en educación en obtención de conocimientos que nos permitan acceder a nuevas oportunidades laborar o incluso crearlas. La filosofía de Apoyatec se basa en brindarle la oportunidad a todas las personas de aprender sin importar si tienen estudios previos o son de formación diferente a la tecnología. 
