@@ -12,6 +12,7 @@
 
 ### SLA Compuesto
 Dado los diferentes servicios, el SLA compuesto es de 99.68%
+![Diagrama Azure](https://github.com/OsirisSosa/hackaton/blob/54c6771fae4b8f3670fdca5a14ae8bb03c860831/images/sla%20.png)
 
 ### TCO 3 años y Precio Total por mes
 Se realizaron los calculos de servidores físicos con capacidades similares a los de la nube para realizar los calculos TCO
